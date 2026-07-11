@@ -17,6 +17,6 @@ public class LineaRapidaFactory extends FabricaCreadora {
                 plan.setTasa(1.0f);
                 break;
         }
-        return null;
+        return plan;
     }
 }
